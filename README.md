@@ -62,7 +62,7 @@ learning from real-world data challenges.
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
 
-🟡 **In Progress** · [View Repository →](#)
+🟡 **In Progress** · [View Repository →](https://github.com/GiadaJennyQafalia/customer-churn-analysis)
 
 ## 🌱 Currently
 
