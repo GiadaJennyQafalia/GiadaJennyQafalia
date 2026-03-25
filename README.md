@@ -86,6 +86,6 @@ I'm always open to new opportunities, collaborations or just a
 good conversation about data & human behaviour.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:giada1915@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/giada-jenny-qafalia-778417390)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giada-jenny-qafalia-778417390)
 
 📍 Based in Trieste, Italy · Open to remote opportunities
