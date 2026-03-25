@@ -4,7 +4,9 @@
 #### Decoding human patterns, one dataset at a time
 
 🎓 Psychology graduate leveraging behavioural science to analyse data
+
 🔍 Focused on behavioural data across HR, healthcare & people-centred industries
+
 🐍 Building my portfolio with Python, SQL & a curious mind
 
 ## About Me
