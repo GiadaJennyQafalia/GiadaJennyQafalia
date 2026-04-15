@@ -1,6 +1,6 @@
 # Hi, I'm Giada 👋
 
-### Data Analyst · People & Behavioural Analytics
+### Data Analyst · Data Scientist · People & Behavioural Analytics
 #### Decoding human patterns, one dataset at a time
 
 🎓 Psychology graduate leveraging behavioural science to analyse data
