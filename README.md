@@ -51,30 +51,59 @@ learning from real-world data challenges.
 `Research Methods` · `Data Collection & Coding`
 `Scientific Communication`
 
-## 📂 Projects
+---
+## 📁 Projects
 
-### 🔍 Customer Churn Analysis
-> Exploratory analysis on ~7,000 telecom customers to understand 
-> why they leave — and what behavioural patterns predict churn.
+### 🔍 HR Employee Attrition Analysis
+> Identifying the drivers of employee turnover using the IBM HR Analytics dataset
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Seaborn%20%7C%20sklearn-blue)
 
-🟡 **In Progress** · [View Repository →](https://github.com/GiadaJennyQafalia/customer-churn-analysis)
+End-to-end HR Analytics project: data cleaning, exploratory analysis, and classification modelling to predict which employees are at risk of leaving — and why.  
+My psychology background shapes the interpretation: overtime, job satisfaction, and work-life balance aren't just features — they're signals of organisational health.
+
+🔗 [View Repository →](https://github.com/GiadaJennyQafalia/hr-employee-attrition-analysis)
+
+---
+
+### 📡 Telco Customer Churn Analysis
+> Predicting churn in ~7,000 telecom customers — a collaborative end-to-end pipeline
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Seaborn%20%7C%20sklearn-blue)
+![Team](https://img.shields.io/badge/Type-Team%20Project-purple)
+
+Full data pipeline from EDA to classification modelling, built collaboratively as part of the Develhope Data Science Program.  
+Covers feature engineering, logistic regression, decision tree, and model evaluation with precision/recall metrics.
+
+🔗 [View Repository →](https://github.com/GiadaJennyQafalia/telco-churn-ml)
+
+---
+
+### 🤖 Applied ML Techniques
+> Practical implementations of supervised learning models — with documented reasoning
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-sklearn%20%7C%20Pandas%20%7C%20Matplotlib-blue)
+
+A hands-on collection covering the full supervised learning stack: linear regression, logistic regression, decision trees, and random forests.  
+Each model includes implementation, evaluation, and a written explanation of *why* that approach fits the problem — not just *how* to run it.
+
+🔗 [View Repository →](https://github.com/GiadaJennyQafalia/ml-portfolio-develhope)
+
+---
 
 ## 🌱 Currently
 
 **Learning**
-- Building real-world experience through hands-on data projects
-- Strengthening my SQL skills for deeper data querying
-- Exploring data storytelling techniques with Matplotlib & Seaborn
+- Building end-to-end ML pipelines with sklearn (encoding, feature importance, classification metrics)
+- Deepening SQL skills for complex data querying
+- Exploring data storytelling: from insight to business recommendation
 
 **Building**
-- 🔍 Completing my Customer Churn Analysis — EDA & behavioural insights
-- 🧠 Next: a People Analytics project on workplace wellbeing & burnout
-- 🛠️ Then: SurveyLens — an interactive tool for survey data exploration
+- 🔍 Completing HR Employee Attrition Analysis — EDA, advanced analysis & ML modelling
+- 🧠 Next: Mental Health in Tech — survey data analysis with a psychological lens
 
 **Open to**
 - Junior Data Analyst roles in HR, healthcare & people-centred organisations
